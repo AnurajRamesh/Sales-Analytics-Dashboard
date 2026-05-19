@@ -420,8 +420,7 @@ This analysis:
 
 
 ## Dashboard 1 Features
-
-
+<img width="1277" height="717" alt="Sales_Dashboard_1" src="https://github.com/user-attachments/assets/ab9e5286-7b8e-44ac-8593-0b4ac92319e4" />
 
 
 
@@ -476,7 +475,7 @@ Sales Team Insights
 
 
 ## Dashboard 2 Features
-
+<img width="1146" height="640" alt="Sales_Dashboard_2" src="https://github.com/user-attachments/assets/85d217e8-b581-4f3b-9998-461f7263662a" />
 
 
 
